@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Zachary T. Rewolinski"
+  navbar:
+    background: "#006994"
+    search: true
+    right:
+      - text: "Publications"
+        href: publications.qmd
+
+      - text: "Teaching"
+        href: teaching.qmd
+
+      - text: "Blog"
+        href: blog.qmd
+        
+      - text: "CV"
+        href: cv.pdf
+
+  page-footer:
+    left: "&copy; Copyright 2024, Zachary Rewolinski"
+    
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    # toc: true # uncomment to allow table of contents on each page
+
+
