@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  favicon: assets/favicon.png
   page-navigation: true
   title: "Zachary T. Rewolinski"
   navbar:

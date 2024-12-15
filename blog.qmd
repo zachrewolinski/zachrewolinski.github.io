@@ -2,13 +2,13 @@
 title: "Blog"
 description: |
   Mostly a place for me to collect my thoughts, and send them out into the void. 
-listing:
-  contents: blog
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
+# listing:
+#   contents: blog
+#   sort: "date desc"
+#   type: default
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
 # if blog is updated and doesn't work, it could be the fact that i removed
 # the _freeze/blog code from the root directory. just a hint for where to
 # potentially look, since i'm not certain what that does.
