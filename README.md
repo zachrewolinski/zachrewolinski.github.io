@@ -1,2 +1,2 @@
-# zachrewolinski.github.io
-Personal website for Zachary Rewolinski
+# My Personal Website!
+I created this website in Quarto with help from the `qtwAcademic` package in R.
