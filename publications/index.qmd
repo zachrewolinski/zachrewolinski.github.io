@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+[A Low-Rank Tensor Completion Approach for Imputing Functional Neuronal Data from Multiple Recordings](https://ieeexplore.ieee.org/abstract/document/9820079) (2022)<br>
+Lili Zheng, **Zachary T. Rewolinski**, Genevera I. Allen<br>
+IEEE Data Science and Learning Workshop (DSLW)
+
+# Presentations
+
+[COVID-19 Policy Impacts on NO2, Ozone, and PM2.5 Levels in U.S. Cities](https://ams.confex.com/ams/101ANNUAL/prelim.cgi/Paper/385119) (2021)<br>
+Y. Choi, H. Louh, D. Cohan, D. Kowal, **Z. Rewolinski**, A. Nguyen, J. Li, A. Dayan, A. Abbott<br>
+American Meteorological Society (AMS) Annual Meeting, Poster Presentation.
+
+[Responses of human activity & in-situ & satellite-observed air quality in U.S. cities to the COVID pandemic](https://ui.adsabs.harvard.edu/abs/2020AGUFMA070...08C/abstract) (2020)<br>
+D. Cohan, D. Kowal, Y. Choi, J. Li, H. Louh, R. MacDonald, G. Meriano, A. Nguyen, L. Niu, **Z. Rewolinski**<br>
+American Geophysical Union (AGU) Fall Meeting, Oral Presentation.
+
+[COVID-19 Policy Impacts on NO2, Ozone, and PM2.5 Levels in U.S. Cities](https://ui.adsabs.harvard.edu/abs/2020AGUFMA067.0007L/abstract) (2020)<br>
+H. Louh, Y. Choi, J. Li, A. Nguyen, **Z. Rewolinski**, D. Kowal, D. Cohan<br>
+American Geophysical Union (AGU) Fall Meeting, Poster Presentation.
+
+[Impacts of COVID-19 Pandemic on Activity and Emissions](https://www.cmascenter.org/conference/2020/session-presentations2.cfm) (2020)<br>
+**Z. Rewolinski**, J. Li, A. Nguyen, D. Cohan, D. Kowal<br>
+Community Modeling and Analysis Systems (CMAS) Conference, Oral Presentation.
+
+[An Analysis of the Relationship Between Pitcher Size and UCL Tears](https://sabr.org/convention/2019/posters) (2019)<br>
+**Z. Rewolinski**<br>
+Society for American Baseball Research (SABR) National Convention, Poster Presentation.<br>
+- *Best Poster Award*

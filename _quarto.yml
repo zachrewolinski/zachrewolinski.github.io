@@ -11,13 +11,13 @@ website:
     search: true
     right:
       - text: "Publications"
-        href: publications.qmd
+        href: publications/index.qmd
 
       - text: "Teaching"
-        href: teaching.qmd
+        href: teaching/index.qmd
 
       - text: "Blog"
-        href: blog.qmd
+        href: blog/index.qmd
         
       - text: "CV"
         href: cv.pdf
