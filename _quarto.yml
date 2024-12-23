@@ -25,6 +25,8 @@ website:
   page-footer:
     left: "&copy; Copyright 2024, Zachary Rewolinski"
     
+title: "Zachary T. Rewolinski's Personal Website"
+    
 format:
   html:
     theme: cosmo
