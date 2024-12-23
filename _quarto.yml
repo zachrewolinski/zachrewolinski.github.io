@@ -25,7 +25,9 @@ website:
   page-footer:
     left: "&copy; Copyright 2024, Zachary Rewolinski"
     
-title: "Zachary T. Rewolinski's Personal Website"
+# thought this would change the name of the website above the URL in google
+# search, but it doesn't work.
+# title: "Zachary T. Rewolinski's Personal Website"
     
 format:
   html:
