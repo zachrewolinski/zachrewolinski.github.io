@@ -7,7 +7,9 @@ website:
   page-navigation: true
   title: "Zachary T. Rewolinski"
   open-graph:
+    # hopefully one of these changes the name above the url in google search
     site-name: "Zachary Rewolinski's Personal Website"
+    title: "Zachary T. Rewolinski's Personal Website"
     # description:
   navbar:
     background: "#006994"
