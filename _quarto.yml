@@ -6,6 +6,9 @@ website:
   favicon: assets/favicon.png
   page-navigation: true
   title: "Zachary T. Rewolinski"
+  open-graph:
+    site-name: "Zachary Rewolinski's Personal Website"
+    # description:
   navbar:
     background: "#006994"
     search: true
