@@ -1,12 +1,21 @@
 ---
-title: "Publications"
+title: "Research"
 ---
+
+*Note that \* denotes equal contribution.*
+
+## Preprints
+
+[Local MDI+: Local Feature Importances for Tree-Based Models](https://arxiv.org/abs/2506.08928) (2025+)<br>
+Z. Liang\*, **Z. T. Rewolinski**\*, A. Agarwal, T. Tang, B. Yu
+
+## Publications
 
 [A Low-Rank Tensor Completion Approach for Imputing Functional Neuronal Data from Multiple Recordings](https://ieeexplore.ieee.org/abstract/document/9820079) (2022)<br>
 L. Zheng, **Z. T. Rewolinski**, G. I. Allen<br>
 IEEE Data Science and Learning Workshop (DSLW)
 
-# Presentations
+## Presentations
 
 [COVID-19 Policy Impacts on NO2, Ozone, and PM2.5 Levels in U.S. Cities](https://ams.confex.com/ams/101ANNUAL/prelim.cgi/Paper/385119) (2021)<br>
 Y. Choi, H. Louh, D. Cohan, D. Kowal, **Z. T. Rewolinski**, A. Nguyen, J. Li, A. Dayan, A. Abbott<br>
