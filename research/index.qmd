@@ -6,6 +6,9 @@ title: "Research"
 
 ## Preprints
 
+[PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835) (2025+)<br>
+**Z. T. Rewolinski**, B. Yu
+
 [Local MDI+: Local Feature Importances for Tree-Based Models](https://arxiv.org/abs/2506.08928) (2025+)<br>
 Z. Liang\*, **Z. T. Rewolinski**\*, A. Agarwal, T. Tang, B. Yu
 
