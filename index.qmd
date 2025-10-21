@@ -28,3 +28,13 @@ My research is primarily focused on ensuring that machine learning models are tr
 
 I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Computer Science, and a B.A. in Mathematics. While at Rice, I was fortunate to work with [Genevera Allen](https://genevera-allen.com/). 
 :::
+
+# Recent News
+
+- **October 2025:** Our paper *PCS Workflow for Veridical Data Science in the Age of AI* has been accepted to *Philosophical Transactions of the Royal Society A*!
+
+- **June 2025:** A preprint for our paper [PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835) is available.
+
+- **June 2025:** A preprint for our paper [Local MDI+: Local Feature Importances for Tree-Based Models](https://arxiv.org/abs/2506.08928) is available.
+
+- **June 2025:** I started my internship with the San Diego Padres Research & Development team.
