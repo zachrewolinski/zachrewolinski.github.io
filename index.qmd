@@ -26,10 +26,14 @@ I am a third-year PhD student in the Department of Statistics at UC Berkeley, ad
 
 My research is primarily focused on ensuring that machine learning models are trustworthy of making real-world decisions in high-impact fields such as finance, medicine, criminal justice, and more. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
+I am also an Associate (part-time) Analyst with the San Diego Padres Research & Development team.
+
 I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Computer Science, and a B.A. in Mathematics. While at Rice, I was fortunate to work with [Genevera Allen](https://genevera-allen.com/). 
 :::
 
 # Recent News
+
+- **November 2025:** I have returned to the San Diego Padres R&D team as an Associate Analyst.
 
 - **October 2025:** Our paper *PCS Workflow for Veridical Data Science in the Age of AI* has been accepted to *Philosophical Transactions of the Royal Society A*!
 
