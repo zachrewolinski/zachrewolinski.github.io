@@ -28,7 +28,7 @@ website:
         href: cv.pdf
 
   page-footer:
-    left: "Website last updated in December 2025."
+    left: "Website last updated in January 2026."
     
 # thought this would change the name of the website above the URL in google
 # search, but it doesn't work.
