@@ -1,17 +1,38 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary T. Rewolinski",
+    "section": "",
+    "text": "zachrewolinski@berkeley.edu\n  \n  \n    \n     zachrewolinski\n  \n  \n      Zachary T. Rewolinski\n  \n  \n    \n     Zachary Rewolinski\n  \n\n  \n  \nI am a third-year PhD student in the Department of Statistics at UC Berkeley, advised by Bin Yu.\nMy research is primarily focused on ensuring that machine learning models are trustworthy of making real-world decisions in high-impact fields such as finance, medicine, criminal justice, and more. My research is supported by the NSF Graduate Research Fellowship.\nI am also an Associate (part-time) Analyst with the San Diego Padres Research & Development team.\nI graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Computer Science, and a B.A. in Mathematics. While at Rice, I was fortunate to work with Genevera Allen.\n\n\n\n\nRecent News\n\nNovember 2025: I have returned to the San Diego Padres R&D team as an Associate Analyst.\nOctober 2025: Our paper PCS Workflow for Veridical Data Science in the Age of AI has been accepted to Philosophical Transactions of the Royal Society A!\nJune 2025: A preprint for our paper PCS Workflow for Veridical Data Science in the Age of AI is available.\nJune 2025: A preprint for our paper Local MDI+: Local Feature Importances for Tree-Based Models is available.\nJune 2025: I started my internship with the San Diego Padres Research & Development team."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My blog is over on Substack, which might be a little bit overkill for what I intend for it to be. Thus far most of my blog ideas are related to education policy, but I will likely branch into more AI-centered topics relevant to my PhD as time goes on."
+  },
+  {
+    "objectID": "blog/index.html#when-as-stop-meaning-prepared",
+    "href": "blog/index.html#when-as-stop-meaning-prepared",
+    "title": "Blog",
+    "section": "2026-01-09 — When A’s Stop Meaning “Prepared”",
+    "text": "2026-01-09 — When A’s Stop Meaning “Prepared”\n\n\nWhen A’s Stop Meaning “Prepared” by Zachary Rewolinski\n\n\nHow Grade Inflation in CA High Schools Is Leaving Students Unready for College Math\n\nRead on Substack"
+  },
+  {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Role\nNumber\nTitle\nSemester(s)\nDescription\n\n\n\n\nGraduate Student Instructor\nSTAT 214\nData Analysis and Machine Learning for Real-World Decision Making\nSpring 2025\nMasters course on data science and machine learning.\n\n\nGraduate Student Instructor\nSTAT 133\nConcepts in Computing with Data\nSpring 2024\nUpper-level course on computationally intensive applied statistics in R."
+    "text": "Role\nNumber\nTitle\nSemester(s)\nDescription\n\n\n\n\nGraduate Student Instructor\nSTAT 214\nData Analysis and Machine Learning for Real-World Decision Making\nSpring 2025, Spring 2026\nMasters course on data science and machine learning.\n\n\nGraduate Student Instructor\nSTAT 133\nConcepts in Computing with Data\nSpring 2024\nUpper-level course on computationally intensive applied statistics in R."
   },
   {
     "objectID": "teaching/index.html#uc-berkeley",
     "href": "teaching/index.html#uc-berkeley",
     "title": "Teaching",
     "section": "",
-    "text": "Role\nNumber\nTitle\nSemester(s)\nDescription\n\n\n\n\nGraduate Student Instructor\nSTAT 214\nData Analysis and Machine Learning for Real-World Decision Making\nSpring 2025\nMasters course on data science and machine learning.\n\n\nGraduate Student Instructor\nSTAT 133\nConcepts in Computing with Data\nSpring 2024\nUpper-level course on computationally intensive applied statistics in R."
+    "text": "Role\nNumber\nTitle\nSemester(s)\nDescription\n\n\n\n\nGraduate Student Instructor\nSTAT 214\nData Analysis and Machine Learning for Real-World Decision Making\nSpring 2025, Spring 2026\nMasters course on data science and machine learning.\n\n\nGraduate Student Instructor\nSTAT 133\nConcepts in Computing with Data\nSpring 2024\nUpper-level course on computationally intensive applied statistics in R."
   },
   {
     "objectID": "teaching/index.html#rice-university",
@@ -19,13 +40,6 @@
     "title": "Teaching",
     "section": "Rice University",
     "text": "Rice University\n\n\n\n\n\n\n\n\n\n\nRole\nNumber\nTitle\nSemester(s)\nDescription\n\n\n\n\nTeaching Assistant\nDSCI 101\nIntroduction to Data Science\nSpring 2023\nIntroductory-level course on the fundamentals of data science and Python programming.\n\n\nGrader\nSTAT 411\nAdvanced Statistical Methods\nSpring 2023\nUpper-level course on advanced topics in statistical applications.\n\n\nTeaching Assistant\nELEC 478/578\nIntroduction to Machine Learning\nFall 2022\nGraduate-level course on machine learning.\n\n\nGrader\nSTAT 425\nIntroduction to Bayesian Inference\nFall 2022\nUpper-level course introducing Bayesian statistics.\n\n\nTeaching Assistant\nCOMP 140\nComputational Thinking\nFall 2020, Spring 2021, Spring 2022\nIntroductory-level computer science course."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zachary T. Rewolinski",
-    "section": "",
-    "text": "zachrewolinski@berkeley.edu\n  \n  \n    \n     zachrewolinski\n  \n  \n      Zachary T. Rewolinski\n  \n  \n    \n     Zachary Rewolinski\n  \n\n  \n  \nI am a third-year PhD student in the Department of Statistics at UC Berkeley, advised by Bin Yu.\nMy research is primarily focused on ensuring that machine learning models are trustworthy of making real-world decisions in high-impact fields such as finance, medicine, criminal justice, and more. My research is supported by the NSF Graduate Research Fellowship.\nI am also an Associate (part-time) Analyst with the San Diego Padres Research & Development team.\nI graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Computer Science, and a B.A. in Mathematics. While at Rice, I was fortunate to work with Genevera Allen.\n\n\n\n\nRecent News\n\nNovember 2025: I have returned to the San Diego Padres R&D team as an Associate Analyst.\nOctober 2025: Our paper PCS Workflow for Veridical Data Science in the Age of AI has been accepted to Philosophical Transactions of the Royal Society A!\nJune 2025: A preprint for our paper PCS Workflow for Veridical Data Science in the Age of AI is available.\nJune 2025: A preprint for our paper Local MDI+: Local Feature Importances for Tree-Based Models is available.\nJune 2025: I started my internship with the San Diego Padres Research & Development team."
   },
   {
     "objectID": "research/index.html",
@@ -54,12 +68,5 @@
     "title": "Research",
     "section": "Presentations",
     "text": "Presentations\nCOVID-19 Policy Impacts on NO2, Ozone, and PM2.5 Levels in U.S. Cities (2021) Y. Choi, H. Louh, D. Cohan, D. Kowal, Z. T. Rewolinski, A. Nguyen, J. Li, A. Dayan, A. Abbott American Meteorological Society (AMS) Annual Meeting, Poster Presentation.\nResponses of human activity & in-situ & satellite-observed air quality in U.S. cities to the COVID pandemic (2020) D. Cohan, D. Kowal, Y. Choi, J. Li, H. Louh, R. MacDonald, G. Meriano, A. Nguyen, L. Niu, Z. T. Rewolinski American Geophysical Union (AGU) Fall Meeting, Oral Presentation.\nCOVID-19 Policy Impacts on NO2, Ozone, and PM2.5 Levels in U.S. Cities (2020) H. Louh, Y. Choi, J. Li, A. Nguyen, Z. T. Rewolinski, D. Kowal, D. Cohan American Geophysical Union (AGU) Fall Meeting, Poster Presentation.\nImpacts of COVID-19 Pandemic on Activity and Emissions (2020) Z. T. Rewolinski, J. Li, A. Nguyen, D. Cohan, D. Kowal Community Modeling and Analysis Systems (CMAS) Conference, Oral Presentation.\nAn Analysis of the Relationship Between Pitcher Size and UCL Tears (2019) Z. T. Rewolinski Society for American Baseball Research (SABR) National Convention, Poster Presentation. - Best Poster Award"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My blog is over on Substack, which might be a little bit overkill for what I intend for it to be. Thus far most of my blog ideas are related to education policy, but I will likely branch into more AI-centered topics relevant to my PhD as time goes on."
   }
 ]
