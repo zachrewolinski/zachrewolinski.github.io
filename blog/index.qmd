@@ -16,6 +16,6 @@ description: |
 
 My blog is over on [Substack](https://zachrewolinski.substack.com/), which might be a little bit overkill for what I intend for it to be. Thus far most of my blog ideas are related to education policy, but I will likely branch into more AI-centered topics relevant to my PhD as time goes on.
 
-## 2026-01-09 — When A’s Stop Meaning “Prepared”
+## Jan 9th, 2026 — When A’s Stop Meaning “Prepared”
 
 <div class="substack-post-embed"><p lang="en">When A’s Stop Meaning “Prepared” by Zachary Rewolinski</p><p>How Grade Inflation in CA High Schools Is Leaving Students Unready for College Math</p><a data-post-link href="https://zachrewolinski.substack.com/p/when-as-stop-meaning-prepared">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
