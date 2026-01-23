@@ -2,6 +2,8 @@
 title: "Teaching"
 ---
 
+For STAT 214 students: anonymous feedback form is linked [here](https://forms.gle/3ifjtLmyupyMaCWV8).
+
 ## UC Berkeley
 
 | Role                        | Number   | Title                                                             | Semester(s)              | Description                                                              |
