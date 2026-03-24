@@ -11,6 +11,8 @@ For STAT 214 students: anonymous feedback form is linked [here](https://forms.gl
 | Graduate Student Instructor | STAT 214 | Data Analysis and Machine Learning for Real-World Decision Making | Spring 2025, Spring 2026 | Masters course on data science and machine learning.                     |
 | Graduate Student Instructor | STAT 133 | Concepts in Computing with Data                                   | Spring 2024              | Upper-level course on computationally intensive applied statistics in R. |
 
+**I received the 2026 Outstanding Graduate Student Instructor Award for excellence in teaching.**
+
 ## Rice University
 
 | Role               | Number       | Title                              | Semester(s)                         | Description                                                                           |
