@@ -33,6 +33,8 @@ I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Co
 
 # Recent News
 
+- **April 2026:** A preprint for our paper [Sanity Checks for Agentic Data Science](https://arxiv.org/pdf/2604.11003) is available.
+
 - **November 2025:** I have returned to the San Diego Padres R&D team as an Associate Analyst.
 
 - **October 2025:** Our paper *PCS Workflow for Veridical Data Science in the Age of AI* has been accepted to *Philosophical Transactions of the Royal Society A*!
