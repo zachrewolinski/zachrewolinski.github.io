@@ -6,6 +6,9 @@ title: "Research"
 
 ## Preprints
 
+[Sanity Checks for Agentic Data Science](https://arxiv.org/pdf/2604.11003) (2026+)<br>
+**Z. T. Rewolinski**\*, A. V. Zane\*, H. Huang, C.Singh, C. Wang, J. Gao, B. Yu
+
 [PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835) (2025+)<br>
 **Z. T. Rewolinski**, B. Yu
 
