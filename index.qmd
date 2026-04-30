@@ -33,6 +33,8 @@ I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Co
 
 # Recent News
 
+- **April 2026:** Our paper *Local MDI+: Local Feature Importances for Tree-Based Models* has been accepted to *Transactions on Machine Learning Research*!
+
 - **April 2026:** A preprint for our paper [Sanity Checks for Agentic Data Science](https://arxiv.org/pdf/2604.11003) is available.
 
 - **November 2025:** I have returned to the San Diego Padres R&D team as an Associate Analyst.
