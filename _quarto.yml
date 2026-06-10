@@ -8,8 +8,8 @@ website:
   title: "Zachary T. Rewolinski"
   open-graph:
     # hopefully one of these changes the name above the url in google search
-    site-name: "Zachary Rewolinski's Personal Website"
-    title: "Zachary Rewolinski's Personal Website"
+    site-name: "Zachary T. Rewolinski's Personal Website"
+    title: "Zachary T. Rewolinski's Personal Website"
     # description:
   navbar:
     background: "#006994"
@@ -28,7 +28,7 @@ website:
         href: cv.pdf
 
   page-footer:
-    left: "Website last updated in May 2026."
+    left: "Website last updated in June 2026."
     
 # thought this would change the name of the website above the URL in google
 # search, but it doesn't work.

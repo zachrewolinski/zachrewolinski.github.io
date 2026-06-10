@@ -1,6 +1,6 @@
 ---
 title: "Zachary T. Rewolinski"
-image: profile.jpeg
+image: assets/profile.jpeg
 subtitle: "Statistics PhD Candidate @ UC Berkeley"
 about:
   id: hero-heading
