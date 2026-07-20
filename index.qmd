@@ -43,6 +43,8 @@ I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Co
 
 - **November 2025:** I have returned to the San Diego Padres R&D team as an Associate Analyst.
 
+- **October 2025:** I have had the pleasure of presenting our work *Local MDI+: Local Feature Importances for Tree-Based Models* at Universität Regensburg in Germany.
+
 - **October 2025:** Our paper *PCS Workflow for Veridical Data Science in the Age of AI* has been accepted to *Philosophical Transactions of the Royal Society A*!
 
 - **June 2025:** A preprint for our paper [PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835) is available.
