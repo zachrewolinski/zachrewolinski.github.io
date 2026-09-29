@@ -6,6 +6,10 @@ title: "Research"
 
 ## Preprints
 
+MESA: Scoring the Volume and Stability of Comparative Claims<br>
+**Z. T. Rewolinski**, C. Wang, W. Xu, B. Yu, J. Gao.<br>
+Under Review, 2026+. Preprint available upon request.
+
 [Sanity Checks for Agentic Data Science](https://arxiv.org/pdf/2604.11003)<br>
 **Z. T. Rewolinski**\*, A. V. Zane\*, H. Huang, C.Singh, C. Wang, J. Gao, B. Yu<br>
 Under Review, 2026+
