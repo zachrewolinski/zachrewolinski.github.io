@@ -6,6 +6,10 @@ title: "Research"
 
 ## Preprints
 
+[Pinpointing Pivot Points: The DECIDE Framework for Data Analysis Decision Importances](https://arxiv.org/pdf/2610.38797)<br>
+**Z. T. Rewolinski**\*, J. Simson\*, F. Kreuter, C. Kern, B. Yu<br>
+2026+
+
 MESA: Scoring the Volume and Stability of Comparative Claims<br>
 **Z. T. Rewolinski**, C. Wang, W. Xu, B. Yu, J. Gao.<br>
 Under Review, 2026+. Preprint available upon request.
