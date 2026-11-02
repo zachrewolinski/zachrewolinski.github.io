@@ -33,6 +33,8 @@ I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Co
 
 # Recent News
 
+- **November 2026**: I had the pleasure of presenting our work *Local MDI+: Local Feature Importances for Tree-Based Models* at ASA SLDS in New York.
+
 - **October 2026:** A preprint for our paper [Pinpointing Pivot Points: The DECIDE Framework for Data Analysis Decision Importances](https://arxiv.org/pdf/2610.38797) is available.
 
 - **June 2026:** I started my internship at Microsoft Research, where I am working with [Chenglong Wang](https://chenglongwang.org/) and [Weijia Xu](https://weijia-xu.github.io/) in the Deep Learning Group.
