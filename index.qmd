@@ -33,7 +33,9 @@ I graduated from Rice University in 2023 with a B.S. in Statistics, a B.S. in Co
 
 # Recent News
 
-- **November 2026**: I had the pleasure of presenting our work *Local MDI+: Local Feature Importances for Tree-Based Models* at ASA SLDS in New York.
+- **November 2026**: I had the pleasure of presenting our work *Pinpointing Pivot Points: The DECIDE Framework for Data Analysis Decision Importances* at [BSTARS](https://statistics.berkeley.edu/industry/berkeley-statistics-annual-research-symposium-bstars) in Berkeley.
+
+- **November 2026**: I had the pleasure of presenting our work *Local MDI+: Local Feature Importances for Tree-Based Models* at [ASA SLDS](https://asa-slds.github.io/slds2026/) in New York.
 
 - **October 2026:** A preprint for our paper [Pinpointing Pivot Points: The DECIDE Framework for Data Analysis Decision Importances](https://arxiv.org/pdf/2610.38797) is available.
 
